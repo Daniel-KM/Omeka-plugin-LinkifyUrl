@@ -4,6 +4,9 @@ Linkify URL (plugin for Omeka)
 [Linkify URL] is a plugin for [Omeka] that converts an url in the specified
 fields into a link via an internal filter.
 
+The plugin is just a quick code to show how to do a standard filter on metadata
+(see the [issue] on the Omeka forum).
+
 
 Installation
 ------------
@@ -70,6 +73,7 @@ Copyright
 
 [Linkify Url]: https://github.com/Daniel-KM/LinkifyUrl
 [Omeka]: https://omeka.org
+[issue]: https://forum.omeka.org/t/importing-local-url-as-live-link-through-csv-import/1003
 [CeCILL v2.1]: https://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html
 [GNU/GPL]: https://www.gnu.org/licenses/gpl-3.0.html
 [FSF]: https://www.fsf.org
