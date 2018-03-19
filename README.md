@@ -24,8 +24,8 @@ Warning
 
 Use it at your own risk.
 
-It's always recommended to backup your files and database regularly so you can
-roll back if needed.
+It’s always recommended to backup your files and your databases and to check
+your archives regularly so you can roll back if needed.
 
 
 Troubleshooting
@@ -71,7 +71,7 @@ Copyright
 * Copyright Daniel Berthereau, 2016
 
 
-[Linkify Url]: https://github.com/Daniel-KM/LinkifyUrl
+[Linkify Url]: https://github.com/Daniel-KM/Omeka-plugin-LinkifyUrl
 [Omeka]: https://omeka.org
 [issue]: https://forum.omeka.org/t/importing-local-url-as-live-link-through-csv-import/1003
 [CeCILL v2.1]: https://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html
